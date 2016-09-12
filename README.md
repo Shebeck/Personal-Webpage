@@ -1,2 +1,3 @@
 # Personal-Webpage
-Personal webpage to display information about my self as well as my resume for recruiting agencys and future employers to look at. 
+Personal-Webpage is to display information about myself as well as my resume for recruiting agencies and future employers to look at. All of my documentation will be in a Word Document and will be avilable to be download. I will also try and keep this repository updated. All of the code will be available to be downloaded as well. Everything from creation of the Documentation in the Word document to the actual website to this GitHub repository is all configured by myself. If you have anyquestions please feel free to reach out and ask me, Thank You Bryan Shebeck
+Email - Shebeck86@gmail.com
